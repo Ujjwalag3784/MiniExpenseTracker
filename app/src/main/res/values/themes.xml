@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.MiniExpenseTracker" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.MiniExpenseTracker"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- You can customize colors later -->
+    </style>
+
 </resources>
